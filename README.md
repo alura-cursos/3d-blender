@@ -1,2 +1,2 @@
 # blender-3d
-arquivos utilizadso no curso de lender.
+arquivos utilizados no curso de 3d-Blender
