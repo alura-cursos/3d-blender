@@ -1,2 +1,2 @@
-# blender-3d
+# 3d-blender
 arquivos utilizados no curso de 3d-Blender
